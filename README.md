@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**18287452845/18287452845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in blockchain, AI, and open source projects.
 
-Here are some ideas to get you started:
+## 🦀 Contributing to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![RustChain](https://img.shields.io/badge/RustChain-Contributor-orange)](https://github.com/Scottcjn/Rustchain)
+
+I'm a contributor to **[RustChain](https://github.com/Scottcjn/Rustchain)** - The first Proof-of-Antiquity blockchain where vintage hardware earns 2.5x mining rewards.
+
+---
+
+⭐ [Star RustChain](https://github.com/Scottcjn/Rustchain) | 📖 [Documentation](https://rustchain.org) | 💬 [Discord](https://discord.gg/rustchain)
